@@ -886,6 +886,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [Wiki](../../wiki)
 
----
-
-**Made with ❤️ by Abdelrahman Aboalkhair**
