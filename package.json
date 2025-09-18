@@ -6,7 +6,8 @@
   },
   "scripts": {
     "prepare": "husky",
-  "start": "react-scripts start",
-  "build": "react-scripts build"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
   }
 }
