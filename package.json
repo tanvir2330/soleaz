@@ -1,10 +1,21 @@
 {
+  "name": "soleaz",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
-    "husky": "^9.1.7"
-  },
-  "scripts": {
-    "prepare": "husky",
+    "husky": "^9.1.7",
+    "typescript": "^5.2.2"
   }
 }
